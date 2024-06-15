@@ -1,0 +1,101 @@
+15:09:39.441 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+17:08:12.487 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+17:42:51.417 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+17:42:51.425 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Failed
+17:45:24.905 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+17:46:13.026 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+17:46:13.636 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+17:49:01.214 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+17:49:01.548 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+17:50:25.501 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+17:50:25.504 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Failed
+17:50:25.987 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+17:54:26.799 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+17:54:26.805 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Failed
+18:15:06.673 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+18:15:06.689 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+18:15:07.277 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+18:24:27.911 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+18:36:34.603 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+11:45:10.918 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+12:52:02.530 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+13:00:42.116 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+13:01:43.424 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+13:05:46.480 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+13:07:43.535 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+13:10:46.097 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+13:15:43.887 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+13:23:16.307 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+13:25:58.104 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+11:45:36.975 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+16:13:22.957 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+16:42:18.943 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+16:49:29.647 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+16:50:32.123 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+16:51:23.437 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+13:09:01.413 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+13:09:42.973 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+14:05:29.744 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+14:08:20.046 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+14:09:30.589 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+14:11:21.662 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Passed
+12:07:04.810 [main] INFO  org.example.Web_Automation.Tests.A_Login_Tests - Login Passed
+12:27:37.288 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Login Passed
+12:28:36.524 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+14:55:49.811 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+12:52:02.796 [main] INFO  org.example.Web_Automation.Tests.A_Login_Tests - Login Passed
+12:53:15.692 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+13:14:13.492 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+13:15:21.341 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+13:16:03.964 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+13:17:21.455 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+13:21:16.426 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+13:24:59.358 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+13:44:07.729 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+13:45:33.979 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+13:46:09.540 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+15:02:50.613 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+18:29:02.558 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+19:33:57.544 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+19:35:55.973 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+19:37:21.456 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+19:38:50.172 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+19:43:02.906 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+19:52:10.623 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+19:57:41.126 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+11:52:19.249 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+11:53:32.167 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+11:55:35.948 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+11:58:57.609 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+12:05:08.582 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+12:23:28.215 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+12:33:24.930 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+13:16:07.099 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+18:51:22.396 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully
+18:53:20.714 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+19:02:11.413 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+19:08:00.571 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+19:11:37.867 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+19:12:50.614 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+19:19:55.604 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+12:04:54.051 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+12:05:54.983 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+12:06:32.447 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+12:21:36.493 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+12:45:49.702 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+12:46:44.748 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+15:46:42.887 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+15:48:06.164 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+15:55:03.809 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+15:57:29.694 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+11:26:18.053 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+11:29:37.058 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+11:34:54.881 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+11:55:07.354 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+12:13:19.626 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+13:33:04.799 [main] INFO  org.example.Web_Automation.Tests.B_PLP_Tests - Mandatory Product Searched Successfully & Cart Creation Done 
+12:45:32.371 [main] INFO  org.example.Web_Automation.Tests.A_Login_Tests - Login Passed
+14:36:41.112 [main] INFO  org.example.Web_Automation.Tests.C_Cart_Test - RFQ #20751071
+17:05:35.034 [main] INFO  org.example.Web_Automation.Tests.C_Cart_Test - RFQ #20751146
+17:05:35.036 [main] INFO  org.example.Web_Automation.Tests.C_Cart_Test - Login Passed
+17:10:50.840 [main] INFO  org.example.Web_Automation.Tests.A_Login_Tests - Login Passed

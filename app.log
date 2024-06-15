@@ -1,0 +1,8 @@
+12:45:10.857 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Failed
+12:45:51.921 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Failed
+12:46:57.546 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Error Message Displays Incorrectly 
+14:40:52.551 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Error Message Displays Incorrectly 
+14:42:25.349 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+14:43:27.049 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+14:52:40.877 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed
+15:04:00.754 [main] INFO  org.example.Web_Automation.Tests.Login_Tests - Login Failed

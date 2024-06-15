@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-git add .git add .8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/rkrishna01/IdeaProjects/Selenium_Framework/src/test/java/org/example/Web_Automation/Tests">
+        <classes>
+            <class name="org.example.Web_Automation.Tests.Login_Tests"/>
+        </classes>
+    </test>
+</suite>
